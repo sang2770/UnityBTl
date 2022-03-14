@@ -78,7 +78,12 @@ public class Playcontroller : MonoBehaviour
             if (isGround)
             {
                 anim.SetBool("run", false);
+<<<<<<< HEAD
                 myBody.velocity=new Vector2(0,myBody.velocity.y);
+=======
+                myBody.velocity = new Vector2(0, myBody.velocity.y);
+                
+>>>>>>> ab2493cd98fc14511a0d2d9ddaf2acf38133b47a
             }
         }
         if (Input.GetKey(KeyCode.Space))
