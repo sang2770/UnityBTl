@@ -8,6 +8,10 @@ public class Playcontroller : MonoBehaviour
     public float JumForce = 400f;//độ cao nhảy
     public float MaxVelocity = 4f;//tốc độ tối thiểu
 
+    //trạng thái cầm vũ khý
+    public GameObject sword;
+    public GameObject tay;
+
     private Rigidbody2D myBody;
     private Animator anim;
     bool isGround;
@@ -74,6 +78,7 @@ public class Playcontroller : MonoBehaviour
             if (isGround)
             {
                 anim.SetBool("run", false);
+                myBody.velocity=new Vector2(0,myBody.velocity.y);
             }
         }
         if (Input.GetKey(KeyCode.Space))
@@ -85,7 +90,22 @@ public class Playcontroller : MonoBehaviour
                 anim.SetBool("jump", true);
             }
         }
+        if (Input.GetKey(KeyCode.K))
+        {
+            anim.SetBool("sword", true);
+            sword.SetActive(true);
+            tay.SetActive(true);
+            StartCoroutine(PrintfAfter(1.0f));
+        }
         myBody.AddForce(new Vector2 (forceX, forceY));
+        
+    }
+    IEnumerator PrintfAfter(float seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+        anim.SetBool("sword", false);
+        sword.SetActive(false);
+        tay.SetActive(false);
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
