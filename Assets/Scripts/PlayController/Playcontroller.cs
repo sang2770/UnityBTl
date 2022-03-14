@@ -9,8 +9,16 @@ public class Playcontroller : MonoBehaviour
     public float MaxVelocity = 4f;//tốc độ tối thiểu
 
     //trạng thái cầm vũ khý
+    public string trangthai="";
     public GameObject sword;
-    public GameObject tay;
+    public GameObject hand_sword;
+
+    public GameObject gun;
+    public GameObject shot;
+    public GameObject hand_gun;
+    public GameObject Bullet;
+    public float fireRate = 0.5f;
+    public float NextFire = 0;
 
     private Rigidbody2D myBody;
     private Animator anim;
@@ -78,12 +86,7 @@ public class Playcontroller : MonoBehaviour
             if (isGround)
             {
                 anim.SetBool("run", false);
-<<<<<<< HEAD
                 myBody.velocity=new Vector2(0,myBody.velocity.y);
-=======
-                myBody.velocity = new Vector2(0, myBody.velocity.y);
-                
->>>>>>> ab2493cd98fc14511a0d2d9ddaf2acf38133b47a
             }
         }
         if (Input.GetKey(KeyCode.Space))
@@ -95,23 +98,60 @@ public class Playcontroller : MonoBehaviour
                 anim.SetBool("jump", true);
             }
         }
+        //dùng kiếm
         if (Input.GetKey(KeyCode.K))
         {
             anim.SetBool("sword", true);
             sword.SetActive(true);
-            tay.SetActive(true);
+            hand_sword.SetActive(true);
+            
+            trangthai = "sword";
             StartCoroutine(PrintfAfter(1.0f));
         }
+        //dùng súng
+        if (Input.GetKey(KeyCode.G))
+        {
+            anim.SetBool("gun", true);
+            gun.SetActive(true);
+            hand_gun.SetActive(true);
+            shot.SetActive(true);
+            
+            if (transform.localScale.x < 0)
+            {
+                Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
+            }
+            else
+            {
+                Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 180)));
+            }
+            trangthai = "gun";
+            StartCoroutine(PrintfAfter(0.5f));
+        }
+
         myBody.AddForce(new Vector2 (forceX, forceY));
         
     }
     IEnumerator PrintfAfter(float seconds)
     {
         yield return new WaitForSeconds(seconds);
-        anim.SetBool("sword", false);
-        sword.SetActive(false);
-        tay.SetActive(false);
+        if(trangthai == "sword")
+        {
+            anim.SetBool("sword", false);
+            sword.SetActive(false);
+            hand_sword.SetActive(false);
+        }
+        if(trangthai == "gun")
+        {
+            anim.SetBool("gun", false);
+            gun.SetActive(false);
+            hand_gun.SetActive(false);
+            shot.SetActive(false);
+
+        }
+        trangthai = "";
+        
     }
+    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Ground")
