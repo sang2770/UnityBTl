@@ -23,12 +23,14 @@ public class DameController : MonoBehaviour
         {
             EnemyHeath Hurt=collision.gameObject.GetComponent<EnemyHeath>();
             Hurt.addDame(Dame);
+            
         }    
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
         if(collision.gameObject.tag=="Enemy")
         {
+            
             Destroy(gameObject);
 
         }
