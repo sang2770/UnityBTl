@@ -118,15 +118,19 @@ public class Playcontroller : MonoBehaviour
             gun.SetActive(true);
             hand_gun.SetActive(true);
             shot.SetActive(true);
+            if( Time.time > NextFire)
+            {
+                NextFire = Time.time+fireRate;
+                if (transform.localScale.x < 0)
+                {
+                    Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
+                }
+                else
+                {
+                    Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 180)));
+                }
+            }
             
-            if (transform.localScale.x < 0)
-            {
-                Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
-            }
-            else
-            {
-                Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 180)));
-            }
             trangthai = "gun";
             StartCoroutine(PrintfAfter(0.5f));
         }
