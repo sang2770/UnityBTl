@@ -7,6 +7,7 @@ public class Playcontroller : MonoBehaviour
     public float MoveForce = 40f;//tốc đọ di chuyển
     public float JumForce = 400f;//độ cao nhảy
     public float MaxVelocity = 4f;//tốc độ tối thiểu
+    
 
     //trạng thái cầm vũ khý
     public string trangthai="";
@@ -98,7 +99,7 @@ public class Playcontroller : MonoBehaviour
         {
             if (hev==0)
             {
-                if (isGround )
+                if (isGround)
                 {
 
                     forceY = JumForce;
@@ -190,6 +191,7 @@ public class Playcontroller : MonoBehaviour
         {
             isGround = true;
             anim.SetBool("jump", false);
+           
         }
     }
 }
