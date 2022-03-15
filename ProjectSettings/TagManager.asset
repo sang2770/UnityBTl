@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - "\xCAnmy"
+  - Enemy
   layers:
   - Default
   - TransparentFX
