@@ -20,6 +20,9 @@ public class Playcontroller : MonoBehaviour
     public float fireRate = 0.5f;
     public float NextFire = 0;
 
+    public GameObject sycthe;
+    public GameObject hand_sycthe;
+
     private Rigidbody2D myBody;
     private Animator anim;
     bool isGround;
@@ -127,7 +130,17 @@ public class Playcontroller : MonoBehaviour
             trangthai = "gun";
             StartCoroutine(PrintfAfter(0.5f));
         }
+        //dùng lưỡi hái 
+        
+        if (Input.GetKey(KeyCode.L))
+        {
+            anim.SetBool("sycthe", true);
+            sycthe.SetActive(true);
+            hand_sycthe.SetActive(true);
 
+            trangthai = "sycthe";
+            StartCoroutine(PrintfAfter(0.6f));
+        }
         myBody.AddForce(new Vector2 (forceX, forceY));
         
     }
@@ -147,6 +160,12 @@ public class Playcontroller : MonoBehaviour
             hand_gun.SetActive(false);
             shot.SetActive(false);
 
+        }
+        if (trangthai == "sycthe")
+        {
+            anim.SetBool("sycthe", false);
+            sycthe.SetActive(false);
+            hand_sycthe.SetActive(false);
         }
         trangthai = "";
         
