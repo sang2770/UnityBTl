@@ -43,6 +43,7 @@ public class Playcontroller : MonoBehaviour
         float forceX = 0.0f;//tốc độ di chuyển
         float forceY = 0.0f;//tốc độ nhảy
         float vel=Mathf.Abs(myBody.velocity.x);//tốc độ hiện tại
+        float hev= Mathf.Abs(myBody.velocity.y);
 
         float h = Input.GetAxisRaw("Horizontal");//xác định chiều di chuyển
                                                  //h>0:bấm phím sang phải, h<0: bấm phím sang trái, h=0:ko di chuyển
@@ -86,6 +87,7 @@ public class Playcontroller : MonoBehaviour
         }
         if (h==0)
         {
+            
             if (isGround)
             {
                 anim.SetBool("run", false);
@@ -94,12 +96,19 @@ public class Playcontroller : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.Space))
         {
-            if (isGround)
+            if (hev==0)
             {
-                forceY = JumForce;
+                if (isGround )
+                {
+
+                    forceY = JumForce;
+                   
+                }
+                
                 isGround = false;
                 anim.SetBool("jump", true);
             }
+               
         }
         //dùng kiếm
         if (Input.GetKey(KeyCode.K))
