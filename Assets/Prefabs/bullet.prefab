@@ -74,7 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 1115682805434658061, guid: a78d2e86e7ab28a44ae0e1dd432a3eff, type: 3}
+  m_Sprite: {fileID: 1115682805434658061, guid: a78d2e86e7ab28a44ae0e1dd432a3eff,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -136,3 +137,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedbullet: 12
   aliveTime: 1
+--- !u!114 &-5965224657643948661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283642172474591025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c861424e099be7840ad82b3a82979a04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Dame: 2

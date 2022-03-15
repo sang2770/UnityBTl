@@ -7,7 +7,7 @@ public class CoinController : MonoBehaviour
 {
     private int total;
     Text Coins;
-    bool CheckHigh;
+    //bool CheckHigh;
     public int TotalPoint;
     // Start is called before the first frame update
     void Start()
@@ -15,7 +15,7 @@ public class CoinController : MonoBehaviour
         total = 0;
         Coins = GameObject.Find("Points").GetComponent<Text>();
         Coins.text = "Coin: " + total.ToString()+"/"+TotalPoint.ToString();
-        CheckHigh = false;
+        //CheckHigh = false;
 
     }
 
