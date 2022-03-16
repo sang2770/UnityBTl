@@ -1,0 +1,5424 @@
+fileFormatVersion: 2
+guid: f7044c69a3b5e094592978530aa883b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -885778201551497045
+    second: nen_0
+  - first:
+      213: -5528053366439385202
+    second: nen_1
+  - first:
+      213: -4925375529673528941
+    second: nen_2
+  - first:
+      213: -1183631576785269299
+    second: nen_3
+  - first:
+      213: -9110510237400876966
+    second: nen_4
+  - first:
+      213: -903995315666887387
+    second: nen_5
+  - first:
+      213: -6327988389863067245
+    second: nen_6
+  - first:
+      213: 1062147739093505016
+    second: nen_7
+  - first:
+      213: -1828282161836977419
+    second: nen_8
+  - first:
+      213: 7152394369346089285
+    second: nen_9
+  - first:
+      213: -4461296927741783553
+    second: nen_10
+  - first:
+      213: 7623081519414605086
+    second: nen_11
+  - first:
+      213: -6016127799244964883
+    second: nen_12
+  - first:
+      213: -5518563950897075903
+    second: nen_13
+  - first:
+      213: -3613894665571013647
+    second: nen_14
+  - first:
+      213: 7660649375728891237
+    second: nen_15
+  - first:
+      213: -4124273187282777437
+    second: nen_16
+  - first:
+      213: 2160131661798519985
+    second: nen_17
+  - first:
+      213: 3796864530713431775
+    second: nen_18
+  - first:
+      213: -4079176460199611800
+    second: nen_19
+  - first:
+      213: 4073493299283992220
+    second: nen_20
+  - first:
+      213: -5773795442817011449
+    second: nen_21
+  - first:
+      213: 5074575213363111505
+    second: nen_22
+  - first:
+      213: 4646996844139008620
+    second: nen_23
+  - first:
+      213: -2684912476612544580
+    second: nen_24
+  - first:
+      213: 9070981597602269203
+    second: nen_25
+  - first:
+      213: -260075554330426131
+    second: nen_26
+  - first:
+      213: 8192919115106820175
+    second: nen_27
+  - first:
+      213: 3699740098956718262
+    second: nen_28
+  - first:
+      213: 4531528639313366100
+    second: nen_29
+  - first:
+      213: -6917182734685686384
+    second: nen_30
+  - first:
+      213: 3876841585088834859
+    second: nen_31
+  - first:
+      213: 2859944566298687353
+    second: nen_32
+  - first:
+      213: 3984802977820306086
+    second: nen_33
+  - first:
+      213: 4314917550426492286
+    second: nen_34
+  - first:
+      213: -105772738941408568
+    second: nen_35
+  - first:
+      213: -1327442974818543810
+    second: nen_36
+  - first:
+      213: 8939339270707170687
+    second: nen_37
+  - first:
+      213: 2655783105658979072
+    second: nen_38
+  - first:
+      213: -7846303302337442082
+    second: nen_39
+  - first:
+      213: -6843451008220328879
+    second: nen_40
+  - first:
+      213: 8814840847172677469
+    second: nen_41
+  - first:
+      213: 5104696614083162737
+    second: nen_42
+  - first:
+      213: -4673558400254392560
+    second: nen_43
+  - first:
+      213: 8463995785354351752
+    second: nen_44
+  - first:
+      213: -7290833896999559800
+    second: nen_45
+  - first:
+      213: -5488574477567157654
+    second: nen_46
+  - first:
+      213: 8581484900127970198
+    second: nen_47
+  - first:
+      213: 5469940599876034973
+    second: nen_48
+  - first:
+      213: 4180491709276119810
+    second: nen_49
+  - first:
+      213: 5762568673849820280
+    second: nen_50
+  - first:
+      213: -7292779863084266861
+    second: nen_51
+  - first:
+      213: -2622200658601074216
+    second: nen_52
+  - first:
+      213: 7418684142344710406
+    second: nen_53
+  - first:
+      213: -6942995298487705828
+    second: nen_54
+  - first:
+      213: 3899438785209117
+    second: nen_55
+  - first:
+      213: 7776501712263010571
+    second: nen_56
+  - first:
+      213: -4509347395620738221
+    second: nen_57
+  - first:
+      213: -2787880152414036959
+    second: nen_58
+  - first:
+      213: 8856211321254744538
+    second: nen_59
+  - first:
+      213: -18146211382738018
+    second: nen_60
+  - first:
+      213: -8411612399102368073
+    second: nen_61
+  - first:
+      213: 638183771204559514
+    second: nen_62
+  - first:
+      213: -8701264710504619979
+    second: nen_63
+  - first:
+      213: 3308757295449285891
+    second: nen_64
+  - first:
+      213: -2372187035664758287
+    second: nen_65
+  - first:
+      213: 5093444529656479387
+    second: nen_66
+  - first:
+      213: -7352142354940806003
+    second: nen_67
+  - first:
+      213: -5304560522442364902
+    second: nen_68
+  - first:
+      213: 7482558162510830787
+    second: nen_69
+  - first:
+      213: -1373178590786686192
+    second: nen_70
+  - first:
+      213: 9399468762297553
+    second: nen_71
+  - first:
+      213: 762042983447921923
+    second: nen_72
+  - first:
+      213: 8593190678044948031
+    second: nen_73
+  - first:
+      213: -4516902034296708290
+    second: nen_74
+  - first:
+      213: 7918870335354693986
+    second: nen_75
+  - first:
+      213: -8580093716806076356
+    second: nen_76
+  - first:
+      213: 3507491407921482174
+    second: nen_77
+  - first:
+      213: -679266656546390074
+    second: nen_78
+  - first:
+      213: 3932178459483920164
+    second: nen_79
+  - first:
+      213: -2663094149278423227
+    second: nen_80
+  - first:
+      213: -8651721427377926704
+    second: nen_81
+  - first:
+      213: -4534301933919370171
+    second: nen_82
+  - first:
+      213: 7802042722786597314
+    second: nen_83
+  - first:
+      213: 1529677624651273206
+    second: nen_84
+  - first:
+      213: 8059446796731420293
+    second: nen_85
+  - first:
+      213: -1159466074648973815
+    second: nen_86
+  - first:
+      213: -4285846878246862026
+    second: nen_87
+  - first:
+      213: -2555312944387921660
+    second: nen_88
+  - first:
+      213: 8879476422020097461
+    second: nen_89
+  - first:
+      213: 7245486220055925304
+    second: nen_90
+  - first:
+      213: 4276970545626241591
+    second: nen_91
+  - first:
+      213: -7826176467588384733
+    second: nen_92
+  - first:
+      213: -8675985706984864223
+    second: nen_93
+  - first:
+      213: -5973476869178327510
+    second: nen_94
+  - first:
+      213: 3981812746607803982
+    second: nen_95
+  - first:
+      213: 5675837241101911504
+    second: nen_96
+  - first:
+      213: 1426439700994639594
+    second: nen_97
+  - first:
+      213: -2596843976761919507
+    second: nen_98
+  - first:
+      213: -6333211283787489932
+    second: nen_99
+  - first:
+      213: -1184306612604986555
+    second: nen_100
+  - first:
+      213: 2910712520048396843
+    second: nen_101
+  - first:
+      213: 4367746917059979814
+    second: nen_102
+  - first:
+      213: 8922410572403090209
+    second: nen_103
+  - first:
+      213: 1595367914057970141
+    second: nen_104
+  - first:
+      213: 6557986952369545394
+    second: nen_105
+  - first:
+      213: -52239396894177120
+    second: nen_106
+  - first:
+      213: 8979274399578094574
+    second: nen_107
+  - first:
+      213: 8538150694550542504
+    second: nen_108
+  - first:
+      213: -3583640110095156508
+    second: nen_109
+  - first:
+      213: -8142619585025192010
+    second: nen_110
+  - first:
+      213: -4270034758054451766
+    second: nen_111
+  - first:
+      213: -1374740298544090119
+    second: nen_112
+  - first:
+      213: -694876173842312533
+    second: nen_113
+  - first:
+      213: 6760295024434936530
+    second: nen_114
+  - first:
+      213: 8765690885315366175
+    second: nen_115
+  - first:
+      213: 5658031726735075175
+    second: nen_116
+  - first:
+      213: 360284287710023395
+    second: nen_117
+  - first:
+      213: -4457534966455818315
+    second: nen_118
+  - first:
+      213: 1615545483144640784
+    second: nen_119
+  - first:
+      213: 6627470462344643128
+    second: nen_120
+  - first:
+      213: 7824682432022959509
+    second: nen_121
+  - first:
+      213: 660221536018414187
+    second: nen_122
+  - first:
+      213: -7202272152219176169
+    second: nen_123
+  - first:
+      213: 8661480796457881703
+    second: nen_124
+  - first:
+      213: -5511378079920498617
+    second: nen_125
+  - first:
+      213: 3857668079462305155
+    second: nen_126
+  - first:
+      213: 553991179569141392
+    second: nen_127
+  - first:
+      213: -8055602196712418837
+    second: nen_128
+  - first:
+      213: -5115937243489255688
+    second: nen_129
+  - first:
+      213: -5343658902607251045
+    second: nen_130
+  - first:
+      213: -980036136382656116
+    second: nen_131
+  - first:
+      213: 6617470761796983960
+    second: nen_132
+  - first:
+      213: -4139313663242844855
+    second: nen_133
+  - first:
+      213: 2286637110959897030
+    second: nen_134
+  - first:
+      213: -4623695351839619024
+    second: nen_135
+  - first:
+      213: -9070175111550817636
+    second: nen_136
+  - first:
+      213: -8090678570231741180
+    second: nen_137
+  - first:
+      213: -8058812712761164440
+    second: nen_138
+  - first:
+      213: -6991559168178206772
+    second: nen_139
+  - first:
+      213: 2751818470271328568
+    second: nen_140
+  - first:
+      213: -6537261859615059933
+    second: nen_141
+  - first:
+      213: 4693324860724038039
+    second: nen_142
+  - first:
+      213: -8508650402406544185
+    second: nen_143
+  - first:
+      213: 6389323210391218143
+    second: nen_144
+  - first:
+      213: 3135887299151958217
+    second: nen_145
+  - first:
+      213: -8180401145674739072
+    second: nen_146
+  - first:
+      213: 7233560406574544025
+    second: nen_147
+  - first:
+      213: 6443161136996930449
+    second: nen_148
+  - first:
+      213: 2475019312430984002
+    second: nen_149
+  - first:
+      213: -5974902478684788628
+    second: nen_150
+  - first:
+      213: -2380904003481576715
+    second: nen_151
+  - first:
+      213: -2691887133973140315
+    second: nen_152
+  - first:
+      213: 4543737036670456626
+    second: nen_153
+  - first:
+      213: -6065098201042218862
+    second: nen_154
+  - first:
+      213: 239417645374752249
+    second: nen_155
+  - first:
+      213: -6803823653410742364
+    second: nen_156
+  - first:
+      213: 6443476477954020325
+    second: nen_157
+  - first:
+      213: 7746622767765143152
+    second: nen_158
+  - first:
+      213: 6105345701488438190
+    second: nen_159
+  - first:
+      213: 8282320955608305485
+    second: nen_160
+  - first:
+      213: -6591254189007195011
+    second: nen_161
+  - first:
+      213: -2708320694253338676
+    second: nen_162
+  - first:
+      213: -4893199692345681384
+    second: nen_163
+  - first:
+      213: 3544510916280107959
+    second: nen_164
+  - first:
+      213: 7190377658271302800
+    second: nen_165
+  - first:
+      213: 7538293839482098378
+    second: nen_166
+  - first:
+      213: -1020850025582673806
+    second: nen_167
+  - first:
+      213: -6286436444753133072
+    second: nen_168
+  - first:
+      213: -2366206772381286557
+    second: nen_169
+  - first:
+      213: 2237628819476832433
+    second: nen_170
+  - first:
+      213: 2895841808267278594
+    second: nen_171
+  - first:
+      213: -2105789963441872092
+    second: nen_172
+  - first:
+      213: 2889285382954436513
+    second: nen_173
+  - first:
+      213: -7526672360614226995
+    second: nen_174
+  - first:
+      213: 7102838457215396160
+    second: nen_175
+  - first:
+      213: -5324167451032647646
+    second: nen_176
+  - first:
+      213: 3214394132878577485
+    second: nen_177
+  - first:
+      213: -2546648401809018979
+    second: nen_178
+  - first:
+      213: -9029438495054631304
+    second: nen_179
+  - first:
+      213: 4453681881599378587
+    second: nen_180
+  - first:
+      213: -8793408818277931950
+    second: nen_181
+  - first:
+      213: 3865267595980398561
+    second: nen_182
+  - first:
+      213: -8196180724567295023
+    second: nen_183
+  - first:
+      213: 5189174733445607620
+    second: nen_184
+  - first:
+      213: -7075600982106779433
+    second: nen_185
+  - first:
+      213: 7544498279802335056
+    second: nen_186
+  - first:
+      213: 3968578767883702289
+    second: nen_187
+  - first:
+      213: 735637134079328085
+    second: nen_188
+  - first:
+      213: 3417585345170709301
+    second: nen_189
+  - first:
+      213: -1995977256038858766
+    second: nen_190
+  - first:
+      213: 8862519737180666518
+    second: nen_191
+  - first:
+      213: 5671384620129054847
+    second: nen_192
+  - first:
+      213: 854498267138537258
+    second: nen_193
+  - first:
+      213: 6662274579228050319
+    second: nen_194
+  - first:
+      213: -3311933398384772098
+    second: nen_195
+  - first:
+      213: 1457095098361150458
+    second: nen_196
+  - first:
+      213: 6808361113581176201
+    second: nen_197
+  - first:
+      213: 123653200679821355
+    second: nen_198
+  - first:
+      213: 2346793757976322759
+    second: nen_199
+  - first:
+      213: -6450365281124734313
+    second: nen_200
+  - first:
+      213: 3835668564577784239
+    second: nen_201
+  - first:
+      213: -6153425276780044562
+    second: nen_202
+  - first:
+      213: -2295930916839766417
+    second: nen_203
+  - first:
+      213: 1744001379739851646
+    second: nen_204
+  - first:
+      213: -3546636509998514202
+    second: nen_205
+  - first:
+      213: 9198016936886035580
+    second: nen_206
+  - first:
+      213: -4434970113111251417
+    second: nen_207
+  - first:
+      213: 8540278023439492081
+    second: nen_208
+  - first:
+      213: 7584188562767654545
+    second: nen_209
+  - first:
+      213: 3337822096472559256
+    second: nen_210
+  - first:
+      213: -8359644045992170771
+    second: nen_211
+  - first:
+      213: -8572017411780722568
+    second: nen_212
+  - first:
+      213: -3363009383604604214
+    second: nen_213
+  - first:
+      213: 1316717671686642619
+    second: nen_214
+  - first:
+      213: 3379957294316399882
+    second: nen_215
+  - first:
+      213: 4893894909567637453
+    second: nen_216
+  - first:
+      213: -6513313030300613742
+    second: nen_217
+  - first:
+      213: -4036924330917414340
+    second: nen_218
+  - first:
+      213: -1106096266234882531
+    second: nen_219
+  - first:
+      213: 5617712152326266850
+    second: nen_220
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 66
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81db23b6515b3f0800000000000000
+      internalID: -885778201551497045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876af980c86843b0800000000000000
+      internalID: -5528053366439385202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39968603d0d85abb0800000000000000
+      internalID: -4925375529673528941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd47c02a55e29fe0800000000000000
+      internalID: -1183631576785269299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5839296537f09180800000000000000
+      internalID: -9110510237400876966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dde0bcc0d5473f0800000000000000
+      internalID: -903995315666887387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3917a6726187e28a0800000000000000
+      internalID: -6327988389863067245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f317afbdb18dbe00800000000000000
+      internalID: 1062147739093505016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2168a7f03a0a6e0800000000000000
+      internalID: -1828282161836977419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b06ea8c8624360800000000000000
+      internalID: 7152394369346089285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d868c41a4612c0800000000000000
+      internalID: -4461296927741783553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157d8ac040aac960800000000000000
+      internalID: 7623081519414605086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb6a234ab628ca0800000000000000
+      internalID: -6016127799244964883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e084435f1a63b0800000000000000
+      internalID: -5518563950897075903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe5fae2fdd8ddc0800000000000000
+      internalID: -3613894665571013647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657325f408105a60800000000000000
+      internalID: 7660649375728891237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa87533363a3c6c0800000000000000
+      internalID: -4124273187282777437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b433913d445afd10800000000000000
+      internalID: 2160131661798519985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde447d8c2c21b430800000000000000
+      internalID: 3796864530713431775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862baa13f9ad367c0800000000000000
+      internalID: -4079176460199611800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e91cac294f78830800000000000000
+      internalID: 4073493299283992220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7017f19b2ab5fdfa0800000000000000
+      internalID: -5773795442817011449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156a28235438c6640800000000000000
+      internalID: 5074575213363111505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62544742037d7040800000000000000
+      internalID: 4646996844139008620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7be7ae3564dbad0800000000000000
+      internalID: -2684912476612544580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184031f3b992ed70800000000000000
+      internalID: 9070981597602269203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44f5949a6046cf0800000000000000
+      internalID: -260075554330426131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402379f68813b170800000000000000
+      internalID: 8192919115106820175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07597940e185330800000000000000
+      internalID: 3699740098956718262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c48c3d94933ee30800000000000000
+      internalID: 4531528639313366100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095389c93fa3100a0800000000000000
+      internalID: -6917182734685686384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2daea991ee4dc530800000000000000
+      internalID: 3876841585088834859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ba8f2e6090b720800000000000000
+      internalID: 2859944566298687353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aae5e8223ddc4730800000000000000
+      internalID: 3984802977820306086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d054496aaa1eb30800000000000000
+      internalID: 4314917550426492286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2a7c1148388ef0800000000000000
+      internalID: -105772738941408568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375a52c5a9f39de0800000000000000
+      internalID: -1327442974818543810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_37
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d433d34b9ee0c70800000000000000
+      internalID: 8939339270707170687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038945e9ac3bd420800000000000000
+      internalID: 2655783105658979072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_39
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 476
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec330d7b45c1390800000000000000
+      internalID: -7846303302337442082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0d31f09d2701a0800000000000000
+      internalID: -6843451008220328879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa4572c0b945a70800000000000000
+      internalID: 8814840847172677469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f090568687d640800000000000000
+      internalID: 5104696614083162737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174bc3856f242fb0800000000000000
+      internalID: -4673558400254392560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88413769257267570800000000000000
+      internalID: 8463995785354351752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd6fcf231c1da90800000000000000
+      internalID: -7290833896999559800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9555a79aa4d3b0800000000000000
+      internalID: -5488574477567157654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693918dcc0f871770800000000000000
+      internalID: 8581484900127970198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91291e9ef129eb40800000000000000
+      internalID: 5469940599876034973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036ed57f07140a30800000000000000
+      internalID: 4180491709276119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cc9e6da1c8ff40800000000000000
+      internalID: 5762568673849820280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8db37a57daca90800000000000000
+      internalID: -7292779863084266861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1a94ed4621c9bd0800000000000000
+      internalID: -2622200658601074216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_53
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a74debe574f660800000000000000
+      internalID: 7418684142344710406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fde64cf8685af90800000000000000
+      internalID: -6942995298487705828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_55
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ad97d48add0000800000000000000
+      internalID: 3899438785209117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0957aa0b1fabeb60800000000000000
+      internalID: 7776501712263010571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_57
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b613b6f649b61c0800000000000000
+      internalID: -4509347395620738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cdffea5c57f49d0800000000000000
+      internalID: -2787880152414036959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_59
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 426
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19e23464597ea70800000000000000
+      internalID: 8856211321254744538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93438ced188fbff0800000000000000
+      internalID: -18146211382738018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66b33f613f34b80800000000000000
+      internalID: -8411612399102368073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92211832c84bd800800000000000000
+      internalID: 638183771204559514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530eab9d8d5ee3780800000000000000
+      internalID: -8701264710504619979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ac3bca311bed20800000000000000
+      internalID: 3308757295449285891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f94a6e957c441fd0800000000000000
+      internalID: -2372187035664758287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eb45140dc8fa640800000000000000
+      internalID: 5093444529656479387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c36a34b71f7f990800000000000000
+      internalID: -7352142354940806003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1823424f4a6266b0800000000000000
+      internalID: -5304560522442364902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc58a7210367d760800000000000000
+      internalID: 7482558162510830787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013fcfad85d71fce0800000000000000
+      internalID: -1373178590786686192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_71
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d477ac54c4612000800000000000000
+      internalID: 9399468762297553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050ef35e02539a00800000000000000
+      internalID: 762042983447921923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36311c9465214770800000000000000
+      internalID: 8593190678044948031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_74
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336188088db051c0800000000000000
+      internalID: -4516902034296708290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_75
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e1313d9a75ed60800000000000000
+      internalID: 7918870335354693986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38763e49326de880800000000000000
+      internalID: -8580093716806076356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_77
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb905ed1adc1da030800000000000000
+      internalID: 3507491407921482174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff8c42392c296f0800000000000000
+      internalID: -679266656546390074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_79
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4275bfea977e19630800000000000000
+      internalID: 3932178459483920164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a6dc1bf9ca0bd0800000000000000
+      internalID: -2663094149278423227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc0895339eee780800000000000000
+      internalID: -8651721427377926704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448e543a6ce211c0800000000000000
+      internalID: -4534301933919370171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dd16f48c664c60800000000000000
+      internalID: 7802042722786597314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d33ee1b18a3510800000000000000
+      internalID: 1529677624651273206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e065d2928e8df60800000000000000
+      internalID: 8059446796731420293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6e6b8fbfb8efe0800000000000000
+      internalID: -1159466074648973815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_87
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633016cb8fc9584c0800000000000000
+      internalID: -4285846878246862026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409eccb6a64b98cd0800000000000000
+      internalID: -2555312944387921660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e6f5a2cc3a3b70800000000000000
+      internalID: 8879476422020097461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_90
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832db6334532d8460800000000000000
+      internalID: 7245486220055925304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5cd60d0ada5b30800000000000000
+      internalID: 4276970545626241591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_92
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287fd3b7f5d36390800000000000000
+      internalID: -7826176467588384733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_93
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260dc287f4b89780800000000000000
+      internalID: -8675985706984864223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_94
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2efc92bf62f91da0800000000000000
+      internalID: -5973476869178327510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_95
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3ea3b89d324730800000000000000
+      internalID: 3981812746607803982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_96
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d500de16ef94ce40800000000000000
+      internalID: 5675837241101911504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_97
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6cc47b95bbbc310800000000000000
+      internalID: 1426439700994639594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_98
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de73efb692826fbd0800000000000000
+      internalID: -2596843976761919507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_99
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd95664e9eb18a0800000000000000
+      internalID: -6333211283787489932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b988a196f709fe0800000000000000
+      internalID: -1184306612604986555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_101
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a44c88d9de46820800000000000000
+      internalID: 2910712520048396843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aea240eaa5d9c30800000000000000
+      internalID: 4367746917059979814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_103
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a6448425c2db70800000000000000
+      internalID: 8922410572403090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13b7b4aa2e32610800000000000000
+      internalID: 1595367914057970141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_105
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b022a13366a20b50800000000000000
+      internalID: 6557986952369545394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a887d89b88664ff0800000000000000
+      internalID: -52239396894177120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7c9ffd7acc9c70800000000000000
+      internalID: 8979274399578094574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89073d1da9d7670800000000000000
+      internalID: 8538150694550542504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_109
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabfea8e4a544ec0800000000000000
+      internalID: -3583640110095156508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4f6df0aa9ffe80800000000000000
+      internalID: -8142619585025192010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_111
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e79bd20acdb4c0800000000000000
+      internalID: -4270034758054451766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37dde6bf0fbece0800000000000000
+      internalID: -1374740298544090119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_113
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21f3f2dcd4b56f0800000000000000
+      internalID: -694876173842312533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_114
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf844d18461dd50800000000000000
+      internalID: 6760295024434936530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_115
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0a16ea6df5a970800000000000000
+      internalID: 8765690885315366175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_116
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672fefb0ed558e40800000000000000
+      internalID: 5658031726735075175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_117
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4c1b96acfff400800000000000000
+      internalID: 360284287710023395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_118
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a486a097a322c0800000000000000
+      internalID: -4457534966455818315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_119
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 276
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b251be029b6610800000000000000
+      internalID: 1615545483144640784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832427b854189fb50800000000000000
+      internalID: 6627470462344643128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_121
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d7f8073bd69c60800000000000000
+      internalID: 7824682432022959509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab07f2df3992900800000000000000
+      internalID: 660221536018414187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_123
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b94703a36c0c90800000000000000
+      internalID: -7202272152219176169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_124
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7605db5d4e2c33870800000000000000
+      internalID: 8661480796457881703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_125
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d67b36d6a383b0800000000000000
+      internalID: -5511378079920498617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_126
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc6b1fda0398530800000000000000
+      internalID: 3857668079462305155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_127
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961beaea0c20b700800000000000000
+      internalID: 553991179569141392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_128
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be199158b70c43090800000000000000
+      internalID: -8055602196712418837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feb1a4be2a8009b0800000000000000
+      internalID: -5115937243489255688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_130
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99bd3d3a8287d5b0800000000000000
+      internalID: -5343658902607251045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_131
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819ddf83563662f0800000000000000
+      internalID: -980036136382656116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_132
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5174d89af5db50800000000000000
+      internalID: 6617470761796983960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_133
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454d7087243e86c0800000000000000
+      internalID: -4139313663242844855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_134
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97df85654cbbf10800000000000000
+      internalID: 2286637110959897030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_135
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03889fb239555dfb0800000000000000
+      internalID: -4623695351839619024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_136
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aac69bac3402280800000000000000
+      internalID: -9070175111550817636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_137
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c875e4b228bf80800000000000000
+      internalID: -8090678570231741180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_138
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df7700988592090800000000000000
+      internalID: -8058812712761164440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_139
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7cc9abafdf8fe90800000000000000
+      internalID: -6991559168178206772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a1e6a15c603620800000000000000
+      internalID: 2751818470271328568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3205fed79faf645a0800000000000000
+      internalID: -6537261859615059933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79947f2381a022140800000000000000
+      internalID: 4693324860724038039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc29e2a833be980800000000000000
+      internalID: -8508650402406544185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_144
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e6869b9f6ba850800000000000000
+      internalID: 6389323210391218143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09c9942e8e48b20800000000000000
+      internalID: 3135887299151958217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082dbd7ef70697e80800000000000000
+      internalID: -8180401145674739072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_147
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b43f5dd4c26460800000000000000
+      internalID: 7233560406574544025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_148
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dd41bae4ba6950800000000000000
+      internalID: 6443161136996930449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_149
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b2ea193f8095220800000000000000
+      internalID: 2475019312430984002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_150
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68646e1ad1e41da0800000000000000
+      internalID: -5974902478684788628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_151
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fadc246c6455fed0800000000000000
+      internalID: -2380904003481576715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_152
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac2614f9ee74aad0800000000000000
+      internalID: -2691887133973140315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_153
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335787d2c89e0f30800000000000000
+      internalID: 4543737036670456626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_154
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909407025174dba0800000000000000
+      internalID: -6065098201042218862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_155
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5c5897415925300800000000000000
+      internalID: 239417645374752249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_156
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5d087f66f391a0800000000000000
+      internalID: -6803823653410742364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_157
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d80bb7b3db6950800000000000000
+      internalID: 6443476477954020325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_158
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e38992d58818b60800000000000000
+      internalID: 7746622767765143152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_159
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2d28619b8ab450800000000000000
+      internalID: 6105345701488438190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8eca0707b0f270800000000000000
+      internalID: 8282320955608305485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_161
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74bbefac392784a0800000000000000
+      internalID: -6591254189007195011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_162
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfb0398dac1a6ad0800000000000000
+      internalID: -2708320694253338676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_163
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5faa1eccd71cb0800000000000000
+      internalID: -4893199692345681384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ce5316e1a03130800000000000000
+      internalID: 3544510916280107959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_165
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948a2a426a59c360800000000000000
+      internalID: 7190377658271302800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_166
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac298d2be466d9860800000000000000
+      internalID: 7538293839482098378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_167
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27042387f4635d1f0800000000000000
+      internalID: -1020850025582673806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18b674c5712c8a0800000000000000
+      internalID: -6286436444753133072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_169
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff61b2a7b892fd0800000000000000
+      internalID: -2366206772381286557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_170
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e71c4e87ad0f10800000000000000
+      internalID: 2237628819476832433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_171
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209fe7328c8103820800000000000000
+      internalID: 2895841808267278594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_172
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e6796f2bb6c2e0800000000000000
+      internalID: -2105789963441872092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_173
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74ab96fbdc81820800000000000000
+      internalID: 2889285382954436513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_174
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc396d4bd53eb8790800000000000000
+      internalID: -7526672360614226995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_175
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ae43c1f9529260800000000000000
+      internalID: 7102838457215396160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_176
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228808479e1cc16b0800000000000000
+      internalID: -5324167451032647646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_177
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc35aee62db9c20800000000000000
+      internalID: 3214394132878577485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_178
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f6b5275cc78acd0800000000000000
+      internalID: -2546648401809018979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_179
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 126
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee70d578df0b280800000000000000
+      internalID: -9029438495054631304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94035f1318aecd30800000000000000
+      internalID: 4453681881599378587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_181
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a1cde44987f580800000000000000
+      internalID: -8793408818277931950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_182
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5d34466034a530800000000000000
+      internalID: 3865267595980398561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_183
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db33456e01514e80800000000000000
+      internalID: -8196180724567295023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_184
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c035783de6a30840800000000000000
+      internalID: 5189174733445607620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_185
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0de19156a6ecd90800000000000000
+      internalID: -7075600982106779433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_186
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe928863173b860800000000000000
+      internalID: 7544498279802335056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_187
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109ddaec59331730800000000000000
+      internalID: 3968578767883702289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_188
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f726c6312853a00800000000000000
+      internalID: 735637134079328085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_189
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1b78a3c3bd6f20800000000000000
+      internalID: 3417585345170709301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_190
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7b02c24ddc44e0800000000000000
+      internalID: -1995977256038858766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_191
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aba8dcebefdfa70800000000000000
+      internalID: 8862519737180666518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_192
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f763834ec4be40800000000000000
+      internalID: 5671384620129054847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_193
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27baf985a9cbdb00800000000000000
+      internalID: 854498267138537258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_194
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c00b7e67257c50800000000000000
+      internalID: 6662274579228050319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_195
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf58d1f16a902d0800000000000000
+      internalID: -3311933398384772098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_196
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb77cd9544a83410800000000000000
+      internalID: 1457095098361150458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_197
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c69d4c582c7e50800000000000000
+      internalID: 6808361113581176201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_198
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206cdd4eed47b100800000000000000
+      internalID: 123653200679821355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_199
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 76
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c268413d7c719020800000000000000
+      internalID: 2346793757976322759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2c0bc3f2bb76a0800000000000000
+      internalID: -6450365281124734313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_201
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19acbbc380b3530800000000000000
+      internalID: 3835668564577784239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_202
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9d912054aa9aa0800000000000000
+      internalID: -6153425276780044562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_203
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66cde8def63320e0800000000000000
+      internalID: -2295930916839766417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5f27c300f33810800000000000000
+      internalID: 1744001379739851646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_205
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7b1292e0d7cec0800000000000000
+      internalID: -3546636509998514202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_206
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746e11cbabe5af70800000000000000
+      internalID: 9198016936886035580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_207
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a78afd22d372c0800000000000000
+      internalID: -4434970113111251417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_208
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3af2e2d99258670800000000000000
+      internalID: 8540278023439492081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_209
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea859a053704960800000000000000
+      internalID: 7584188562767654545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_210
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e42bf1383525e20800000000000000
+      internalID: 3337822096472559256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_211
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6ded08049cfb80800000000000000
+      internalID: -8359644045992170771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_212
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c85a94931a0980800000000000000
+      internalID: -8572017411780722568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_213
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac231f998c03451d0800000000000000
+      internalID: -3363009383604604214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_214
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9c520fbbe54210800000000000000
+      internalID: 1316717671686642619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_215
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d28bb504508ee20800000000000000
+      internalID: 3379957294316399882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_216
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71fd4cd7b9ae340800000000000000
+      internalID: 4893894909567637453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_217
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934206de401c95a0800000000000000
+      internalID: -6513313030300613742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_218
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3986a5b6f9f7c0800000000000000
+      internalID: -4036924330917414340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_219
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 26
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161fa36e4b56a0f0800000000000000
+      internalID: -1106096266234882531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nen_220
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 569
+        width: 165
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef5dc9407f16fd40800000000000000
+      internalID: 5617712152326266850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
