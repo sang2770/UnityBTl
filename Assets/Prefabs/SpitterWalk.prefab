@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 8460333756270879325}
   m_Layer: 0
   m_Name: SpitterWalk
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -435,6 +435,7 @@ MonoBehaviour:
   maxX: 39
   minX: 35.87
   speed: 2
+  HuongBanDau: 0
 --- !u!61 &8460333756270879324
 BoxCollider2D:
   m_ObjectHideFlags: 0

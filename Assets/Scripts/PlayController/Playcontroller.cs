@@ -7,6 +7,8 @@ public class Playcontroller : MonoBehaviour
     public float MoveForce = 40f;//tốc đọ di chuyển
     public float JumForce = 400f;//độ cao nhảy
     public float MaxVelocity = 4f;//tốc độ tối thiểu
+
+    public int heath = 5;
     
 
     //trạng thái cầm vũ khý
@@ -181,6 +183,11 @@ public class Playcontroller : MonoBehaviour
             sycthe.SetActive(false);
             hand_sycthe.SetActive(false);
         }
+        if (trangthai == "Death")
+        {
+            Destroy(gameObject);
+            Time.timeScale = 0;
+        }
         trangthai = "";
         
     }
@@ -193,5 +200,23 @@ public class Playcontroller : MonoBehaviour
             anim.SetBool("jump", false);
            
         }
+        if(collision.gameObject.tag == "Enemy")
+        {
+            heath--;
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Death")
+        {
+            Death();
+        }
+    }
+    public void Death()
+    {
+        anim.SetBool("Death", true);
+        trangthai = "Death";
+        StartCoroutine(PrintfAfter(0.6f));
+        
     }
 }
