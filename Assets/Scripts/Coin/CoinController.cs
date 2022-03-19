@@ -6,15 +6,16 @@ using UnityEngine.UI;
 public class CoinController : MonoBehaviour
 {
     private int total;
-    Text Coins;
+    public Text Coins;
     //bool CheckHigh;
     public int TotalPoint;
     // Start is called before the first frame update
     void Start()
     {
+        TotalPoint = GameObject.FindGameObjectsWithTag("Coin").Length;
         total = 0;
-        Coins = GameObject.Find("Points").GetComponent<Text>();
-        Coins.text = "Coin: " + total.ToString()+"/"+TotalPoint.ToString();
+        
+        Coins.text = total.ToString()+"/"+ TotalPoint.ToString();
         //CheckHigh = false;
 
     }
@@ -22,6 +23,7 @@ public class CoinController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -29,7 +31,20 @@ public class CoinController : MonoBehaviour
         {
             total++;
             Destroy(collision.gameObject);
-            Coins.text = "Coin: " + total.ToString() + "/" + TotalPoint.ToString();
+            if (GamePlayCotroller.Instance != null)
+            {
+                GamePlayCotroller.Instance.setScore(total);
+            }
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.score++;
+                if (GameManager.Instance.score > GameManager.Instance.getHightScore())
+                {
+                    GameManager.Instance.setHightScore(GameManager.Instance.score);
+                }
+            }
+               
+            Coins.text =  total.ToString() + "/" + TotalPoint.ToString();
         }
     }
 }

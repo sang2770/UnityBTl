@@ -9,7 +9,6 @@ public class Playcontroller : MonoBehaviour
     public float MaxVelocity = 4f;//tốc độ tối thiểu
 
     public int heath = 5;
-    
 
     //trạng thái cầm vũ khý
     public string trangthai="";
@@ -186,6 +185,10 @@ public class Playcontroller : MonoBehaviour
         if (trangthai == "Death")
         {
             Destroy(gameObject);
+            if(GamePlayCotroller.Instance != null)
+            {
+                GamePlayCotroller.Instance.showGameOverPanel();
+            }
             Time.timeScale = 0;
         }
         trangthai = "";
@@ -210,14 +213,16 @@ public class Playcontroller : MonoBehaviour
     {
         if (collision.gameObject.tag == "Death")
         {
+
             Death();
         }
     }
     public void Death()
     {
         anim.SetBool("Death", true);
+        heath=0;
         trangthai = "Death";
-        StartCoroutine(PrintfAfter(0.6f));
+        StartCoroutine(PrintfAfter(1.3f));
         
     }
 }
