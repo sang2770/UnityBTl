@@ -202,6 +202,7 @@ public class Playcontroller : MonoBehaviour
         }
         if(collision.gameObject.tag == "Enemy")
         {
+            Debug.Log(heath);
             heath--;
         }
     }

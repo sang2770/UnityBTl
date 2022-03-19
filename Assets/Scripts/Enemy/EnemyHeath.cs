@@ -10,12 +10,16 @@ public class EnemyHeath : MonoBehaviour
     int HealthCurrent;
     //Tham chiếu thanh máu
     public Slider HeathSlider;
+    Animator enemyAnimator;
+
     // Start is called before the first frame update
     void Start()
     {
         HealthCurrent = MaxHeath;
         HeathSlider.maxValue = MaxHeath;
         HeathSlider.value = MaxHeath;
+        enemyAnimator = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
@@ -30,6 +34,7 @@ public class EnemyHeath : MonoBehaviour
         HeathSlider.value = HealthCurrent;
         if(HealthCurrent<=0)
         {
+            enemyAnimator.SetBool("enemy_Death", true);
             makeDead();
         }    
     }    
