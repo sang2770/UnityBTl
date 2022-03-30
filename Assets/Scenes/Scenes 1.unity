@@ -13322,6 +13322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65ce346a9e6a28b44ac825b224c7e4af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Coins: {fileID: 2066970820}
   TotalPoint: 10
 --- !u!1001 &1991528192
 PrefabInstance:

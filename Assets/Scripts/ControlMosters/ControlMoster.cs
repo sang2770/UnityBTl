@@ -14,6 +14,8 @@ public class ControlMoster : MonoBehaviour
     //Bien check di chuyen
     bool CheckPlayer;
     bool CheckRangeExit;
+    private AudioSource MainSound;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,18 +26,21 @@ public class ControlMoster : MonoBehaviour
         CheckRangeExit = false;
         maxX = transform.position.x + maxX;
         minX = transform.position.x + minX;
+        MainSound=GetComponent<AudioSource>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.tag=="Player")
         {
             enemyAnimator.SetBool("enemy_Attack", true);
+            MainSound.Play();
             CheckPlayer = true;
             if(Direction>0 && collision.transform.position.x<transform.position.x 
                 || Direction < 0 && collision.transform.position.x > transform.position.x)
             {
                 
                 Flip();
+
             }
         }    
     }
@@ -46,7 +51,7 @@ public class ControlMoster : MonoBehaviour
             CheckPlayer = false;
             Flip();
             enemyAnimator.SetBool("enemy_Attack", false);
-
+            MainSound.Stop();
         }
     }
     // Update is called once per frame
