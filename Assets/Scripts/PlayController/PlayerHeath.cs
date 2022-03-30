@@ -22,8 +22,6 @@ public class PlayerHeath : MonoBehaviour
         if (player.heath<=0)
         {
             player.Death();
-            
-           
 
         }
         for(int i = imgHP.Length - 1; i >= player.heath; i--)

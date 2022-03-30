@@ -28,11 +28,19 @@ public class Playcontroller : MonoBehaviour
     private Rigidbody2D myBody;
     private Animator anim;
     bool isGround;
+
+    //âm thanh
+    private AudioSource MainSound;
+    public AudioClip OverSound;
+    public AudioClip JumpSound;
+    public AudioClip RunSound;
+    public AudioClip HurtSound;
     // Start is called before the first frame update
     private void Awake()
     {
         anim = GetComponent<Animator>();
         myBody = GetComponent<Rigidbody2D>();
+        MainSound= GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -67,7 +75,6 @@ public class Playcontroller : MonoBehaviour
                 transform.localScale = scale;
             }
             anim.SetBool("run", true);
-
         }
         else if (h < 0)
         {
@@ -86,6 +93,7 @@ public class Playcontroller : MonoBehaviour
                 transform.localScale= scale;
             }
             anim.SetBool("run", true);
+
         }
         if (h==0)
         {
@@ -104,7 +112,7 @@ public class Playcontroller : MonoBehaviour
                 {
 
                     forceY = JumForce;
-                   
+                    MainSound.PlayOneShot(JumpSound);
                 }
                 
                 isGround = false;
@@ -206,22 +214,27 @@ public class Playcontroller : MonoBehaviour
         if(collision.gameObject.tag == "Enemy")
         {
             heath--;
+            MainSound.PlayOneShot(HurtSound);
+            
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Death")
         {
-
             Death();
         }
     }
     public void Death()
     {
+        MainSound.PlayOneShot(OverSound);
         anim.SetBool("Death", true);
         heath=0;
         trangthai = "Death";
         StartCoroutine(PrintfAfter(1.3f));
-        
     }
+    public void RunEffect()
+    {
+        MainSound.PlayOneShot(RunSound);
+    }    
 }

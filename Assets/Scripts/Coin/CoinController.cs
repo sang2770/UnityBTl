@@ -11,6 +11,9 @@ public class CoinController : MonoBehaviour
     public int Scene;
     //bool CheckHigh;
     public int TotalPoint;
+    //âm thanh
+    private AudioSource MainSound;
+    public AudioClip CoinSound;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +22,7 @@ public class CoinController : MonoBehaviour
         
         Coins.text = total.ToString()+"/"+ TotalPoint.ToString();
         //CheckHigh = false;
-
+        MainSound=GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -31,6 +34,7 @@ public class CoinController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Coin")
         {
+            MainSound.PlayOneShot(CoinSound);
             total++;
             Destroy(collision.gameObject);
             if (GamePlayCotroller.Instance != null)
