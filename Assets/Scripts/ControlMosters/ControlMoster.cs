@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ControlMoster : MonoBehaviour
 {
-    public float maxX;
-    public float minX;
+    public float distance;
+    float maxX, minX;
     public float speed = 2f;
     Rigidbody2D rigidbody;
     private float Direction;
@@ -24,8 +24,8 @@ public class ControlMoster : MonoBehaviour
         enemyAnimator = GetComponent<Animator>();
         CheckPlayer = false;
         CheckRangeExit = false;
-        maxX = transform.position.x + maxX;
-        minX = transform.position.x + minX;
+        maxX = transform.position.x + distance;
+        minX = transform.position.x - distance;
         MainSound=GetComponent<AudioSource>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
