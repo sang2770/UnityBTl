@@ -192,8 +192,8 @@ public class Playcontroller : MonoBehaviour
         }
         if (trangthai == "Death")
         {
-            Destroy(gameObject);
-            if(GamePlayCotroller.Instance != null)
+            gameObject.GetComponent<Renderer>().enabled = false;
+            if (GamePlayCotroller.Instance != null)
             {
                 GamePlayCotroller.Instance.showGameOverPanel();
             }
