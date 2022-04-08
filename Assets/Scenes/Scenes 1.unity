@@ -8470,10 +8470,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chomper
       objectReference: {fileID: 0}
-    - target: {fileID: 2741157861915974961, guid: b0257065c3c753048bf6c72bd2b3314a, type: 3}
-      propertyPath: distance
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2741157861915974963, guid: b0257065c3c753048bf6c72bd2b3314a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -13729,10 +13725,6 @@ PrefabInstance:
     - target: {fileID: 8460333756084942086, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8460333756270879315, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
-      propertyPath: distance
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879321, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_Name
