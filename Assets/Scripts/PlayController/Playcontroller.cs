@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class Playcontroller : MonoBehaviour
 {
@@ -35,6 +37,8 @@ public class Playcontroller : MonoBehaviour
     public AudioClip JumpSound;
     public AudioClip RunSound;
     public AudioClip HurtSound;
+
+    
     // Start is called before the first frame update
     private void Awake()
     {
@@ -128,7 +132,7 @@ public class Playcontroller : MonoBehaviour
             hand_sword.SetActive(true);
             
             trangthai = "sword";
-            StartCoroutine(PrintfAfter(1.0f));
+            StartCoroutine(PrintfAfter(0.4f));
         }
         //dùng súng
         if (Input.GetKey(KeyCode.G))
@@ -217,6 +221,8 @@ public class Playcontroller : MonoBehaviour
             MainSound.PlayOneShot(HurtSound);
             
         }
+        
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
