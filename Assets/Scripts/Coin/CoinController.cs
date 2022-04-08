@@ -14,6 +14,10 @@ public class CoinController : MonoBehaviour
     //âm thanh
     private AudioSource MainSound;
     public AudioClip CoinSound;
+
+    //check finish
+    private bool isFish=false;
+    public Text txtReport;
     // Start is called before the first frame update
     void Start()
     {
@@ -52,6 +56,11 @@ public class CoinController : MonoBehaviour
                
             Coins.text =  total.ToString() + "/" + TotalPoint.ToString();
         }
+        if (collision.gameObject.tag == "Key")
+        {
+            isFish = true;
+            Destroy(collision.gameObject);
+        }
         
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -59,7 +68,7 @@ public class CoinController : MonoBehaviour
         if (collision.gameObject.tag == "Finish")
         {
             
-            if (total == 0)
+            if (isFish)
             {
                 if (Scene == 1)
                 {
@@ -71,7 +80,18 @@ public class CoinController : MonoBehaviour
                 }
 
             }
+            else
+            {
+                txtReport.gameObject.SetActive(true);
+                StartCoroutine(PrintfAfter(1.0f));
+            }
 
         }
+    }
+    IEnumerator PrintfAfter(float seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+        txtReport.gameObject.SetActive(false);
+
     }
 }
