@@ -6,9 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class Playcontroller : MonoBehaviour
 {
-    public float MoveForce = 40f;//tốc đọ di chuyển
-    public float JumForce = 400f;//độ cao nhảy
-    public float MaxVelocity = 4f;//tốc độ tối thiểu
+   
+
+    public float MovementSpeed = 1f;
+    public float JumpForce = 1f;
 
     public int heath = 5;
 
@@ -30,6 +31,8 @@ public class Playcontroller : MonoBehaviour
     private Rigidbody2D myBody;
     private Animator anim;
     bool isGround;
+
+    private bool checkvk=true;
 
     //âm thanh
     private AudioSource MainSound;
@@ -54,88 +57,47 @@ public class Playcontroller : MonoBehaviour
     }
     void Run()
     {
-        float forceX = 0.0f;//tốc độ di chuyển
-        float forceY = 0.0f;//tốc độ nhảy
-        float vel=Mathf.Abs(myBody.velocity.x);//tốc độ hiện tại
-        float hev= Mathf.Abs(myBody.velocity.y);
+        // Move nhân vật
+        float movement = Input.GetAxisRaw("Horizontal");
+        transform.position += new Vector3(movement, 0, 0)*Time.deltaTime *MovementSpeed;//toc dộ di chuyển 
 
-        float h = Input.GetAxisRaw("Horizontal");//xác định chiều di chuyển
-                                                 //h>0:bấm phím sang phải, h<0: bấm phím sang trái, h=0:ko di chuyển
-
-        if (h > 0)
+        if(!Mathf.Approximately(0, movement))
         {
-            if (vel < MaxVelocity)
-            {
-                if (isGround)
-                {
-                    forceX = MoveForce;
-                }
-                else
-                {
-                    forceX = MoveForce * 1.1f;
-                }
-                Vector3 scale = transform.localScale;
-                scale.x = -1;
-                transform.localScale = scale;
-            }
+            transform.rotation = movement < 0 ? Quaternion.Euler(0,180, 0) : Quaternion.identity;
             anim.SetBool("run", true);
         }
-        else if (h < 0)
+        if(Input.GetKey(KeyCode.Space) && Mathf.Abs(myBody.velocity.y) < 0.001f)
         {
-            if(vel < MaxVelocity)
+            if (isGround)
             {
-                if (isGround)
-                {
-                    forceX = -MoveForce;
-                }
-                else
-                {
-                    forceX = -MoveForce * 1.1f;
-                }
-                Vector3 scale= transform.localScale;
-                scale.x = 1;
-                transform.localScale= scale;
+                myBody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);//tạo xung lực
+                isGround = false;
+                MainSound.PlayOneShot(JumpSound);
+                anim.SetBool("jump", true);
             }
-            anim.SetBool("run", true);
-
         }
-        if (h==0)
+        if (movement == 0)
         {
-            
+           
             if (isGround)
             {
                 anim.SetBool("run", false);
-                myBody.velocity=new Vector2(0,myBody.velocity.y);
+                myBody.velocity = new Vector2(0, myBody.velocity.y);
             }
         }
-        if (Input.GetKey(KeyCode.Space))
-        {
-            if (hev==0)
-            {
-                if (isGround)
-                {
-
-                    forceY = JumForce;
-                    MainSound.PlayOneShot(JumpSound);
-                }
-                
-                isGround = false;
-                anim.SetBool("jump", true);
-            }
-               
-        }
+        
         //dùng kiếm
-        if (Input.GetKey(KeyCode.K))
+        if (Input.GetKey(KeyCode.K) && checkvk)
         {
             anim.SetBool("sword", true);
             sword.SetActive(true);
             hand_sword.SetActive(true);
-            
+            checkvk = false;
             trangthai = "sword";
             StartCoroutine(PrintfAfter(0.4f));
         }
         //dùng súng
-        if (Input.GetKey(KeyCode.G))
+        if (Input.GetKey(KeyCode.G) && checkvk)
         {
             anim.SetBool("gun", true);
             gun.SetActive(true);
@@ -153,22 +115,23 @@ public class Playcontroller : MonoBehaviour
                     Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 180)));
                 }
             }
-            
+            checkvk = false;
             trangthai = "gun";
             StartCoroutine(PrintfAfter(0.5f));
         }
         //dùng lưỡi hái 
         
-        if (Input.GetKey(KeyCode.L))
+        if (Input.GetKey(KeyCode.L) && checkvk)
         {
             anim.SetBool("sycthe", true);
             sycthe.SetActive(true);
             hand_sycthe.SetActive(true);
-
+            checkvk=false;
             trangthai = "sycthe";
             StartCoroutine(PrintfAfter(0.6f));
         }
-        myBody.AddForce(new Vector2 (forceX, forceY));
+      
+     
         
     }
     IEnumerator PrintfAfter(float seconds)
@@ -176,12 +139,14 @@ public class Playcontroller : MonoBehaviour
         yield return new WaitForSeconds(seconds);
         if(trangthai == "sword")
         {
+            checkvk = true;
             anim.SetBool("sword", false);
             sword.SetActive(false);
             hand_sword.SetActive(false);
         }
         if(trangthai == "gun")
         {
+            checkvk = true;
             anim.SetBool("gun", false);
             gun.SetActive(false);
             hand_gun.SetActive(false);
@@ -190,6 +155,7 @@ public class Playcontroller : MonoBehaviour
         }
         if (trangthai == "sycthe")
         {
+            checkvk = true;
             anim.SetBool("sycthe", false);
             sycthe.SetActive(false);
             hand_sycthe.SetActive(false);

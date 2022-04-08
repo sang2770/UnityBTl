@@ -1121,9 +1121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06ccbb93f5d01f646989f1c2ab3d23ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveForce: 40
-  JumForce: 400
-  MaxVelocity: 4
+  MovementSpeed: 4
+  JumpForce: 7
   heath: 5
   trangthai: 
   sword: {fileID: 1413425787177911595}
