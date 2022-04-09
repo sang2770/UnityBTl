@@ -15,6 +15,10 @@ public class GamePlayCotroller : MonoBehaviour
    
     public GameObject GamePausePanel;
 
+    public GameObject GameWinnerPanel;
+    public Text WinScore, BestWinScore;
+
+
     private void Awake()
     {
         if (Instance == null)
@@ -57,6 +61,12 @@ public class GamePlayCotroller : MonoBehaviour
         endScore.text="Score : "+GameManager.Instance.score;
         bestScore.text="Best Score : "+GameManager.Instance.getHightScore();
 
+    }
+    public void showGameWinner()
+    {
+        GameWinnerPanel.SetActive(true);
+        WinScore.text = "Score : " + GameManager.Instance.score;
+        BestWinScore.text = "Best Score : " + GameManager.Instance.getHightScore();
     }
     
 }
