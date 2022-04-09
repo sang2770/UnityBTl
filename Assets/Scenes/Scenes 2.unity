@@ -929,7 +929,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 62604445}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: ReStartButton
         m_Mode: 1
@@ -2619,6 +2619,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1413425787809268869, guid: 648a7981b1d508c4bada40f4a538f903, type: 3}
+      propertyPath: Coins
+      value: 
+      objectReference: {fileID: 538551390}
     - target: {fileID: 1413425787809268876, guid: 648a7981b1d508c4bada40f4a538f903, type: 3}
       propertyPath: m_Name
       value: Player
@@ -9711,7 +9715,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 62604445}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: EditButton
         m_Mode: 1
@@ -10728,7 +10732,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 62604445}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: ContinueButton
         m_Mode: 1
