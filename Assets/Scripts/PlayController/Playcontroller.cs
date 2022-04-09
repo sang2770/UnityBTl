@@ -40,8 +40,10 @@ public class Playcontroller : MonoBehaviour
     public AudioClip JumpSound;
     public AudioClip RunSound;
     public AudioClip HurtSound;
+    public AudioClip ShotSound;
+    public AudioClip CutSound;
 
-    
+
     // Start is called before the first frame update
     private void Awake()
     {
@@ -95,6 +97,7 @@ public class Playcontroller : MonoBehaviour
             checkvk = false;
             trangthai = "sword";
             StartCoroutine(PrintfAfter(0.4f));
+            MainSound.PlayOneShot(CutSound);
         }
         //dùng súng
         if (Input.GetKey(KeyCode.G) && checkvk)
@@ -103,7 +106,9 @@ public class Playcontroller : MonoBehaviour
             gun.SetActive(true);
             hand_gun.SetActive(true);
             shot.SetActive(true);
-            if( Time.time > NextFire)
+            MainSound.PlayOneShot(ShotSound);
+
+            if ( Time.time > NextFire)
             {
                 NextFire = Time.time+fireRate;
                 if (transform.localScale.x < 0)
@@ -129,10 +134,12 @@ public class Playcontroller : MonoBehaviour
             checkvk=false;
             trangthai = "sycthe";
             StartCoroutine(PrintfAfter(0.6f));
+            MainSound.PlayOneShot(CutSound);
+
         }
-      
-     
-        
+
+
+
     }
     IEnumerator PrintfAfter(float seconds)
     {

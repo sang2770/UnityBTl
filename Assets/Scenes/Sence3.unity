@@ -205,7 +205,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 348980453}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: PauseButton
         m_Mode: 1
@@ -762,11 +762,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2741157861915974963, guid: b0257065c3c753048bf6c72bd2b3314a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 39.70897
+      value: 39.2
       objectReference: {fileID: 0}
     - target: {fileID: 2741157861915974963, guid: b0257065c3c753048bf6c72bd2b3314a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.3049927
+      value: 5.44
       objectReference: {fileID: 0}
     - target: {fileID: 2741157861915974963, guid: b0257065c3c753048bf6c72bd2b3314a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3240,7 +3240,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 348980453}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: ReStartButton
         m_Mode: 1
@@ -3585,11 +3585,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 56.204544
+      value: 56.35
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.3589168
+      value: 7.51
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4708,11 +4708,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 67.79029
+      value: 67.98
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.369904
+      value: 5.7
       objectReference: {fileID: 0}
     - target: {fileID: 8460333756270879326, guid: e9844bfc3d92d00428a77671ebe4b095, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12972,7 +12972,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 348980453}
         m_TargetAssemblyTypeName: GamePlayCotroller, Assembly-CSharp
         m_MethodName: EditButton
         m_Mode: 1

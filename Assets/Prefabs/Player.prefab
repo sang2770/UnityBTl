@@ -1139,6 +1139,8 @@ MonoBehaviour:
   JumpSound: {fileID: 8300000, guid: c579c336233e7cd46b6dbaee3107f3a3, type: 3}
   RunSound: {fileID: 8300000, guid: 4477d53a3a60ea643b87fe82504aee67, type: 3}
   HurtSound: {fileID: 8300000, guid: 7c1352de760240146a07adc14c96b08d, type: 3}
+  ShotSound: {fileID: 8300000, guid: 3061c7b9b32d894478e4126ccce25ca3, type: 3}
+  CutSound: {fileID: 8300000, guid: a58e438b7cfa445498120af0e6169082, type: 3}
 --- !u!114 &1413425787809268869
 MonoBehaviour:
   m_ObjectHideFlags: 0
