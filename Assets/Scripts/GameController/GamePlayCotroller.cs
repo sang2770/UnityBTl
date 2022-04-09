@@ -18,35 +18,43 @@ public class GamePlayCotroller : MonoBehaviour
     public GameObject GameWinnerPanel;
     public Text WinScore, BestWinScore;
 
-
+    AudioSource Main;
+    public AudioClip buttonSound;
     private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
+            Main = GetComponent<AudioSource>();
         }
     }
     public void PauseButton()
     {
-
+        Main.PlayOneShot(buttonSound);
         Time.timeScale = 0;
         PauseBTN.gameObject.SetActive(false);
         GamePausePanel.SetActive(true);
     }
     public void ContinueButton()
     {
+        Main.PlayOneShot(buttonSound);
+
         Time.timeScale = 1;
         PauseBTN.gameObject.SetActive(true);
         GamePausePanel.SetActive(false);
     }
     public void EditButton()
     {
+        Main.PlayOneShot(buttonSound);
+
         SceneManager.LoadScene("mainmenu");
         Time.timeScale = 1;
         GameManager.Instance.score = 0;
     }
     public void ReStartButton()
     {
+        Main.PlayOneShot(buttonSound);
+
         SceneManager.LoadScene("Scenes 1");
         Time.timeScale = 1;
         GameManager.Instance.score = 0;
