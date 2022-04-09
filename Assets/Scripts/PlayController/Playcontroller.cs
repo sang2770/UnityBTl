@@ -111,7 +111,7 @@ public class Playcontroller : MonoBehaviour
             if ( Time.time > NextFire)
             {
                 NextFire = Time.time+fireRate;
-                if (transform.localScale.x < 0)
+                if (transform.rotation.y ==0)
                 {
                     Instantiate(Bullet, shot.transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
                 }
