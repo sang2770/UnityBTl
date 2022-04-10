@@ -61,7 +61,25 @@ public class CoinController : MonoBehaviour
             isFish = true;
             Destroy(collision.gameObject);
         }
-        
+        if (collision.gameObject.tag == "Win" )
+        {
+            if (isFish)
+            {
+                if (GamePlayCotroller.Instance != null)
+                {
+                    GamePlayCotroller.Instance.showGameWinner();
+                }
+                Time.timeScale = 0;
+
+            }
+            else
+            {
+                txtReport.gameObject.SetActive(true);
+                StartCoroutine(PrintfAfter(1.0f));
+            }
+            
+        }
+
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {

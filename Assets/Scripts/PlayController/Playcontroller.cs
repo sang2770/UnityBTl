@@ -203,14 +203,7 @@ public class Playcontroller : MonoBehaviour
         {
             Death();
         }
-        if(collision.gameObject.tag == "Win")
-        {
-            if (GamePlayCotroller.Instance != null)
-            {
-                GamePlayCotroller.Instance.showGameWinner();
-            }
-            Time.timeScale = 0;
-        }
+        
     }
     public void Death()
     {
