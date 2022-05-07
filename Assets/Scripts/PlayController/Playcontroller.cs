@@ -89,7 +89,7 @@ public class Playcontroller : MonoBehaviour
         }
         
         //dùng kiếm
-        if (Input.GetKey(KeyCode.K) && checkvk)
+        if (Input.GetKey(KeyCode.W) && checkvk)
         {
             anim.SetBool("sword", true);
             sword.SetActive(true);
@@ -100,7 +100,7 @@ public class Playcontroller : MonoBehaviour
             MainSound.PlayOneShot(CutSound);
         }
         //dùng súng
-        if (Input.GetKey(KeyCode.G) && checkvk)
+        if (Input.GetKey(KeyCode.E) && checkvk)
         {
             anim.SetBool("gun", true);
             gun.SetActive(true);
@@ -126,7 +126,7 @@ public class Playcontroller : MonoBehaviour
         }
         //dùng lưỡi hái 
         
-        if (Input.GetKey(KeyCode.L) && checkvk)
+        if (Input.GetKey(KeyCode.R) && checkvk)
         {
             anim.SetBool("sycthe", true);
             sycthe.SetActive(true);
