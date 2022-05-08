@@ -50,6 +50,7 @@ public class Playcontroller : MonoBehaviour
         anim = GetComponent<Animator>();
         myBody = GetComponent<Rigidbody2D>();
         MainSound= GetComponent<AudioSource>();
+       
     }
 
     // Update is called once per frame

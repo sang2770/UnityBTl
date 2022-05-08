@@ -11,13 +11,14 @@ public class GamePlayCotroller : MonoBehaviour
     public Button PauseBTN;
    
     public GameObject GameOverPanel;
-    public Text endScore, bestScore;
+    public Text endScore, bestScore,nameplayer1;
    
     public GameObject GamePausePanel;
 
     public GameObject GameWinnerPanel;
-    public Text WinScore, BestWinScore;
+    public Text WinScore, BestWinScore,nameplayer2;
 
+    
     AudioSource Main;
     public AudioClip buttonSound;
     private void Awake()
@@ -68,6 +69,7 @@ public class GamePlayCotroller : MonoBehaviour
         GameOverPanel.SetActive(true);
         endScore.text="Score : "+GameManager.Instance.score;
         bestScore.text="Best Score : "+GameManager.Instance.getHightScore();
+        nameplayer1.text="Player : "+GameManager.Instance.getNamePlayer();
 
     }
     public void showGameWinner()
@@ -75,6 +77,7 @@ public class GamePlayCotroller : MonoBehaviour
         GameWinnerPanel.SetActive(true);
         WinScore.text = "Score : " + GameManager.Instance.score;
         BestWinScore.text = "Best Score : " + GameManager.Instance.getHightScore();
+        nameplayer2.text = "Player : " + GameManager.Instance.getNamePlayer();
     }
     
 }

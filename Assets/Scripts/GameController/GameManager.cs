@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     private const string High_Score = "High Score";
+    public string Playername;
     public int score = 0;
     private void Awake()
     {
@@ -42,6 +43,14 @@ public class GameManager : MonoBehaviour
     public int getHightScore()
     {
         return PlayerPrefs.GetInt(High_Score);
+    }
+    public void setNamePlayer(string name)
+    {
+        Playername= name;
+    }
+    public string getNamePlayer()
+    {
+        return Playername;
     }
 
 }
